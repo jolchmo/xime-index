@@ -39,4 +39,5 @@ App ──HTTP──→ index.yaml ──→ 展示列表 ──→ 用户选择
 
 ## 许可
 
-MIT
+[CC BY-NC-SA 4.0](LICENSE) — 署名-非商业性使用-相同方式共享
+
