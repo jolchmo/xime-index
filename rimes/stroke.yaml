@@ -1,0 +1,15 @@
+id: "stroke"
+name: "五筆畫"
+author: "rime"
+description: "h,s,p,n,z 代表橫、豎、撇、捺、折"
+type: "remote"
+tags: ["笔画"]
+appVersion: ">=1.0.0"
+currentVersion: "master"
+versions:
+  - version: "master"
+    date: "2026-06-04"
+    changelog: ""
+    downloadUrl: "https://github.com/rime/rime-stroke/archive/refs/heads/master.zip"
+    size: ""
+    sha256: ""

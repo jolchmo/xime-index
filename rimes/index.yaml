@@ -8,3 +8,10 @@ schemas:
     version: "2.0.1"
   - file: "./wubi98.yaml"
     version: "1.0.0"
+  - file: "./cangjie.yaml"
+    version: "master"
+  - file: "./quick.yaml"
+    version: "master"
+  - file: "./stroke.yaml"
+    version: "master"
+

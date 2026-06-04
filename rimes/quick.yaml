@@ -1,0 +1,15 @@
+id: "cangjie"
+name: "速成輸入法"
+author: "rime"
+description: "速成取倉頡碼的首尾二碼,本方案支持詞句連書、自動調整詞頻、記憶新詞"
+type: "remote"
+tags: ["速成"]
+appVersion: ">=1.0.0"
+currentVersion: "master"
+versions:
+  - version: "master"
+    date: "2026-06-04"
+    changelog: ""
+    downloadUrl: "https://github.com/rime/rime-quick/archive/refs/heads/master.zip"
+    size: ""
+    sha256: ""

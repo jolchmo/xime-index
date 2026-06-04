@@ -1,0 +1,15 @@
+id: "cangjie"
+name: "倉頡輸入法"
+author: "rime"
+description: "倉頡五代，支持擴展區漢字、「快趣」詞組編碼"
+type: "remote"
+tags: ["倉頡"]
+appVersion: ">=1.0.0"
+currentVersion: "master"
+versions:
+  - version: "master"
+    date: "2026-06-04"
+    changelog: ""
+    downloadUrl: "https://github.com/rime/rime-cangjie/archive/refs/heads/master.zip"
+    size: ""
+    sha256: ""
