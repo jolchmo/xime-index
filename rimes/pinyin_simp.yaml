@@ -1,0 +1,15 @@
+# ─── 简体拼音 ────────────────────────────────────────────
+id: "pinyin_simp"
+name: "简体拼音"
+author: "佚名"
+description: "源自 Android 拼音的简体拼音方案"
+type: "built-in"
+tags: ["拼音"]
+appVersion: ">=1.0.0"
+currentVersion: "0.8"
+versions:
+  - version: "0.8"
+    date: "2024-12-01"
+    changelog: "初始发布"
+    size: ""
+    sha256: ""

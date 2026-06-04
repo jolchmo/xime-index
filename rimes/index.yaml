@@ -1,0 +1,14 @@
+# Xime 输入方案子索引
+# 维护方式：PR 修改此目录下的文件，CI 自动校验
+index_version: 1
+updated_at: "2026-06-04"
+
+schemas:
+  - file: "./wubi86.yaml"
+    version: "1.0"
+  - file: "./wubi86_pinyin.yaml"
+    version: "0.9"
+  - file: "./pinyin_simp.yaml"
+    version: "0.8"
+  - file: "./wubi98.yaml"
+    version: "0.4"

@@ -5,12 +5,23 @@ Xime 输入法的插件与方案市场索引。
 ## 目录结构
 
 ```
-├── index.yaml        # 市场索引文件
-├── rimes/            # 自研方案包（.zip / .tar.gz）
-├── plugins/          # 自研插件 APK
-├── CONTRIBUTING.md   # 上架指南
+├── index.yaml              # 市场主索引（引用子索引）
+├── rimes/
+│   ├── index.yaml          # 方案子索引
+│   ├── wubi86.yaml         # 各方案独立配置
+│   ├── wubi86_pinyin.yaml
+│   ├── pinyin_simp.yaml
+│   ├── rime-ice.yaml
+│   ├── wubi98.yaml
+│   ├── terra_pinyin.yaml
+│   └── double_pinyin.yaml
+├── plugins/
+│   ├── index.yaml          # 插件子索引
+│   ├── xime.kaomoji.yaml   # 各插件独立配置
+│   └── xime.meme-bunny.yaml
+├── CONTRIBUTING.md         # 上架指南
 └── .github/
-    └── workflows/    # CI 校验
+    └── workflows/          # CI 校验
 ```
 
 ## 工作原理

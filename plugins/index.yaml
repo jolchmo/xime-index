@@ -1,0 +1,10 @@
+# Xime 插件子索引
+# 维护方式：PR 修改此目录下的文件，CI 自动校验
+index_version: 1
+updated_at: "2026-06-04"
+
+plugins:
+  - file: "./xime.kaomoji.yaml"
+    version: "2.0.0"
+  - file: "./xime.meme-bunny.yaml"
+    version: "2.0.0"
