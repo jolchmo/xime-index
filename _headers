@@ -1,0 +1,13 @@
+# Cloudflare Pages 静态资源 MIME 类型配置
+# 确保 YAML 文件以正确的内容类型返回
+/*.yaml
+  Content-Type: text/yaml; charset=utf-8
+  Access-Control-Allow-Origin: *
+
+/rimes/*.yaml
+  Content-Type: text/yaml; charset=utf-8
+  Access-Control-Allow-Origin: *
+
+/plugins/*.yaml
+  Content-Type: text/yaml; charset=utf-8
+  Access-Control-Allow-Origin: *
